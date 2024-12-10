@@ -237,7 +237,7 @@ img {
 
 .body-container {
     width: calc(100% - 2rem);
-    max-width: 80%;
+    max-width: 90%;
     margin-left: var(--margin-2);
     margin-right: var(--margin-2);
 }
@@ -250,7 +250,7 @@ img {
 /* ----- Home ------- */
 
 .home-container {
-    height: 80%;
+    height: 90%;
     align-content: center;
 }
 
@@ -572,7 +572,7 @@ img {
     }
 
     .home-container {
-        height: 80%;
+        height: 90%;
         justify-items: center;
     }
 
@@ -610,7 +610,7 @@ img {
     }
 
     .home-img {
-        width: 710px;
+        width: 800px;
     }
 
     .about-container,
