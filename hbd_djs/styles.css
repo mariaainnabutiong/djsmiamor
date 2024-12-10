@@ -269,7 +269,7 @@ img {
 }
 
 .home-img {
-    width: 370px;
+    width: 700px;
     justify-self: center;
 }
 
@@ -610,11 +610,11 @@ img {
     }
 
     .home-img {
-        width: 500px;
+        width: 710px;
     }
 
     .about-container,
     .app-container {
-        column-gap: 7rem;
+        column-gap: 1rem;
     }
 }
